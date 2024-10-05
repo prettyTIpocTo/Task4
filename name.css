@@ -171,3 +171,9 @@ button:focus {
         order: 0;
     }
 }
+
+@media (min-width: 1200px){
+    .header-content{
+        white-space: nowrap;
+    }
+}
